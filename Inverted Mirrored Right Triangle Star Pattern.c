@@ -1,6 +1,10 @@
 #include <stdio.h>  
-      
-    int main()  
+
+//this code is for online & some ofline compilers. 
+// If needed, Kindly add "<conio.h>" & other required header files.
+
+
+int main()  
     {  
         int i,j,k,rows,m;  
         printf("Enter the number of rows :");  
