@@ -1,5 +1,9 @@
 #include <stdio.h>  
-      
+
+//this code is for online & some ofline compilers. 
+// If needed, Kindly add "<conio.h>" & other required header files.
+
+
     int main()  
     {  
         int n;  
