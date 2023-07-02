@@ -2,8 +2,7 @@
 
 //this code is for online & some ofline compilers. 
 // If needed, Kindly add "<conio.h>" & other required header files.
-
-      
+ 
     int main(void) {  
       int i,j,num,m;  
       printf("Enter the number :");  
